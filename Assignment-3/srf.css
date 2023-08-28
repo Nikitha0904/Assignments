@@ -1,0 +1,17 @@
+input[type="text"], input[type="number"], input[type="email"], input[type="password"], input[type="tel"],input[type="date"]  {
+    width: 100%; 
+    border: 2px solid red;
+}
+
+select {
+    width: 100%;
+    border: 2px solid red;
+}
+
+.registration-box {
+    border: 5px solid lightskyblue;
+    padding: 10px;
+    width: 26%;
+    background-color: white;
+    margin: 0px 0px;
+}
